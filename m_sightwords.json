@@ -166,7 +166,7 @@
       ]
     },
     {
-      "group": "sydenstricker",
+      "group": "AM_word_family",
       "sightWords": [
         {
           "front": "ham",
@@ -207,7 +207,12 @@
         {
           "front": "of",
           "back": "He is a friend of mine."
-        },
+        }
+      ]
+    },
+    {
+      "group": "words_ending_in_ck",
+      "sightWords": [
         {
           "front": "pick",
           "back": "Please pick a color."
@@ -243,7 +248,12 @@
         {
           "front": "find",
           "back": "We need to find the matching shoe!"
-        },
+        }
+      ]
+    },
+    {
+      "group": "ay_word_family",
+      "sightWords": [
         {
           "front": "may",
           "back": "May I have a cookie?"
@@ -283,7 +293,12 @@
         {
           "front": "from",
           "back": "Jane is from Ohio."
-        },
+        }
+      ]
+    },
+    {
+      "group": "op_word_family",
+      "sightWords": [
         {
           "front": "top",
           "back": "They live on the top floor of the building."
@@ -323,6 +338,141 @@
         {
           "front": "would",
           "back": "Would you like to play?"
+        }
+      ]
+    },
+    {
+      "group": "words_ending_in_at",
+      "sightWords": [
+        {
+          "front": "bat",
+          "back": "I hit the ball with the bat."
+        },
+        {
+          "front": "cat",
+          "back": "I have a cat."
+        },
+        {
+          "front": "that",
+          "back": "Was the book that bad?"
+        },
+        {
+          "front": "fat",
+          "back": "They made a big fat profit last year."
+        },
+        {
+          "front": "sat",
+          "back": "I sat next to my mom."
+        },
+        {
+          "front": "mat",
+          "back": "We sleep on mats on the floors."
+        },
+        {
+          "front": "pat",
+          "back": "She gave the dog a quick pat."
+        },
+        {
+          "front": "hat",
+          "back": "I love my pink hat."
+        },
+        {
+          "front": "teacher",
+          "back": "My teacher is nice."
+        },
+        {
+          "front": "are",
+          "back": "Are we there yet?"
+        }
+      ]
+    },
+    {
+      "group": "in_word_family",
+      "sightWords": [
+        {
+          "front": "win",
+          "back": "They didn't win the game."
+        },
+        {
+          "front": "thin",
+          "back": "Her coat was too thin."
+        },
+        {
+          "front": "tin",
+          "back": "She bought a tin of soup."
+        },
+        {
+          "front": "chin",
+          "back": "He rubbed the stubble on his chin."
+        },
+        {
+          "front": "pin",
+          "back": "A PIN is a secret number."
+        },
+        {
+          "front": "bin",
+          "back": "My dad took out the recycling bin."
+        },
+        {
+          "front": "grin",
+          "back": "She had a big grin on her face."
+        },
+        {
+          "front": "spin",
+          "back": "He puts a new spin on the story."
+        },
+        {
+          "front": "you",
+          "back": "You may have a cookie."
+        },
+        {
+          "front": "orange",
+          "back": "I like the color orange."
+        }
+      ]
+    },
+    {
+      "group": "an_word_family",
+      "sightWords": [
+        {
+          "front": "ban",
+          "back": "My parents will ban shoes in the house."
+        },
+        {
+          "front": "can",
+          "back": "She can speak French well."
+        },
+        {
+          "front": "than",
+          "back": "I like donuts better than cake."
+        },
+        {
+          "front": "man",
+          "back": "He is an honest man."
+        },
+        {
+          "front": "pan",
+          "back": "I have a stainless steel pan."
+        },
+        {
+          "front": "tan",
+          "back": "They tan easily in the summer."
+        },
+        {
+          "front": "span",
+          "back": "A decade will span 10 years."
+        },
+        {
+          "front": "van",
+          "back": "He drives a small delivery van."
+        },
+        {
+          "front": "done",
+          "back": "The cake should be done soon."
+        },
+        {
+          "front": "white",
+          "back": "He was wearing white sneakers."
         }
       ]
     }
