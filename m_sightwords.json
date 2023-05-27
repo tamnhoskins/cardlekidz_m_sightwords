@@ -1,8 +1,8 @@
 {
-  "sightWords": [
+  "customWordGroups": [
     {
       "group": "1stGrade",
-      "sightWords": [
+      "words": [
         {
           "front": "must",
           "back": "You must pay attention!"
@@ -167,7 +167,7 @@
     },
     {
       "group": "AM_word_family",
-      "sightWords": [
+      "words": [
         {
           "front": "ham",
           "back": "We're having ham for dinner."
@@ -212,7 +212,7 @@
     },
     {
       "group": "words_ending_in_ck",
-      "sightWords": [
+      "words": [
         {
           "front": "pick",
           "back": "Please pick a color."
@@ -253,7 +253,7 @@
     },
     {
       "group": "ay_word_family",
-      "sightWords": [
+      "words": [
         {
           "front": "may",
           "back": "May I have a cookie?"
@@ -298,7 +298,7 @@
     },
     {
       "group": "op_word_family",
-      "sightWords": [
+      "words": [
         {
           "front": "top",
           "back": "They live on the top floor of the building."
@@ -343,7 +343,7 @@
     },
     {
       "group": "words_ending_in_at",
-      "sightWords": [
+      "words": [
         {
           "front": "bat",
           "back": "I hit the ball with the bat."
@@ -388,7 +388,7 @@
     },
     {
       "group": "in_word_family",
-      "sightWords": [
+      "words": [
         {
           "front": "win",
           "back": "They didn't win the game."
@@ -433,7 +433,7 @@
     },
     {
       "group": "an_word_family",
-      "sightWords": [
+      "words": [
         {
           "front": "ban",
           "back": "My parents will ban shoes in the house."
